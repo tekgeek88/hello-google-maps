@@ -1,6 +1,7 @@
 import React from 'react';
 import PolygonMapContainer from "./PolygonMapContainer";
 import './App.css';
+require('dotenv').config();
 
 function App() {
   return (

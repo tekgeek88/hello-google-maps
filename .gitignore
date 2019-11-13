@@ -123,4 +123,5 @@ typings/
 
 config.js
 *config.js
-*.idea/workspace.xml
+/.idea/workspace.xml
+.idea/workspace.xml
